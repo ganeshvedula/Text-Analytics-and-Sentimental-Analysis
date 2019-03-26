@@ -1,2 +1,2 @@
 # Text-Analytics-and-Sentimental-Analysis
-Sentiment analysis is a technology of increasing importance in the modern society as it allows individuals and organizations to detect trends in public opinion by analyzing social media content
+Sentiment analysis is a technology of increasing importance in the modern society as it allows individuals and organizations to detect trends in public opinion by analyzing social media content. As the airline industry become increasingly competitive, airline companies are always trying their best to satisfy customer experience. Through sentiment analysis, these companies can obtain information on customers’ overall satisfaction and adopt business strategies to address aspects with low satisfaction.
